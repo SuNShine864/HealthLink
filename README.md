@@ -1,1 +1,1 @@
-# HealthLink
+HealthLink is a virtual telehealth consultation platform, designed to facilitate secure and efficient remote healthcare interactions. This project aims to bridge the gap between medical providers and their patients, enabling them to connect and consult virtually, regardless of geographic locations.
